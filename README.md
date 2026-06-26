@@ -24,6 +24,9 @@ This is a simple Pacman game built using Java and Object-Oriented Programming co
 2. Run `Game.java` file
 3. Play using keyboard input
 
+## About
+Built as part of OOP coursework at UET Lahore.
+
 ##  Author
 Abeeha Abbas
 BS Cyber Security — UET Lahore
